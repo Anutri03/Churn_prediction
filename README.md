@@ -31,11 +31,11 @@ Predict which customers are likely to leave a telecom service using machine lear
    git clone <repo-url>
    cd Churn_prediction
    ```
-2. **Install dependencies**
-   ```bash
-   pip install streamlit pandas scikit-learn joblib
-   ```
-   Or, if you have a `requirements.txt` file:
+2. **Install the requirements file (if not present)**
+   - Download or ensure `requirements.txt` is in your project directory.
+
+3. **Install dependencies**
+   - Install all required packages using pip:
    ```bash
    pip install -r requirements.txt
    ```
@@ -153,6 +153,9 @@ streamlit run churn_app.py
 - pandas
 - scikit-learn
 - joblib
+- matplotlib
+- seaborn
+- numpy
 
 ---
 
