@@ -28,7 +28,7 @@ Predict which customers are likely to leave a telecom service using machine lear
 ## 🛠️ Installation & Setup
 1. **Clone the repository**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Anutri03/Churn_prediction.git
    cd Churn_prediction
    ```
 2. **Install the requirements file (if not present)**
